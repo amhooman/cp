@@ -8,7 +8,7 @@ Recreating a few of Club Penguin's minigames in HTML5.
 
 # Changelog
 ### v1.0.0
-* Added Bean Counters.
+* Added Bean Counters. e
 	* Playable on PC via the arrow keys and spacebar, or the Nintendo Switch via the gamepad controls.
 ### v1.1.0
 * Added Sled Racing.
